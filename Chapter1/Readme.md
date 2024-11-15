@@ -94,3 +94,12 @@ With these steps, you’re on your way to becoming proficient in using VS Code! 
 You are all set!
 And as a gesture of goodluck, try printing the basic python code to get you started.
 Try code: print("Hello, World!)
+
+Summary
+In this chapter you learned a bit about Python in general, and you installed 
+Python to your system if it wasn’t already there. You also installed a text editor to make it easier to write Python code. You learned to run snippets of 
+Python code in a terminal session, and you ran your first actual program, 
+hello_world.py. You probably learned a bit about troubleshooting as well.
+In the next chapter you’ll learn about the different kinds of data you 
+can work with in your Python programs, and you’ll learn to use variables 
+as well.
